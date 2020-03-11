@@ -1,4 +1,4 @@
-const {nameValidator,
+const { nameValidator,
   colorValidator,
   milesWalkedValidator, } = require('./lib/Validator.js');
 
